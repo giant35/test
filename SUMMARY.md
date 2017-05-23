@@ -3,8 +3,9 @@
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
 * [第二章 路径](di-er-zhang-lu-jing.md)
-  * 点
-  * 线
+  * [点](di-er-zhang-lu-jing/dian.md)
+  * [线](di-er-zhang-lu-jing/xian.md)
 * [第三章 颜色](di-san-zhang-yan-se.md)
-  * 白色
-  * 黑色
+  * [白色](di-san-zhang-yan-se/bai-se.md)
+  * [黑色](di-san-zhang-yan-se/hei-se.md)
+
